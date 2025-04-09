@@ -1,4 +1,4 @@
-baseURL = 'https://manincnl.github.io/markus-profile/'
+baseURL = 'https://markusvanduijn.nl/'
 languageCode = 'en-us'
 title = 'Markus van Duijn | Profile'
 theme = "toha"

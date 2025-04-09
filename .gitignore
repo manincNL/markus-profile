@@ -1,0 +1,24 @@
+# VSCode
+.vscode/
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# macOS systeemfiles
+.DS_Store
+
+# Shell/IDE history (optioneel)
+.history/
+
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+
+# Logbestanden (indien van toepassing)
+*.log
+
+# Windows Thumbs
+Thumbs.db

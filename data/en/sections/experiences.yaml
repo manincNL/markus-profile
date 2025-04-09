@@ -91,7 +91,7 @@ experiences:
     name: DevOps Institute
     url: "https://www.devopsinstitute.com/"
     location: Netherlands
-    overview: 
+    overview: DevOps Institute empowers IT professionals and organizations to thrive in the ever-evolving digital landscape through learning, certification, and community. With a strong focus on advancing the human aspects of DevOps, the institute creates globally recognized pathways to develop modern skills across the software delivery lifecycle. By promoting continuous improvement and knowledge sharing, DevOps Institute supports a culture of transformation — helping professionals grow beyond traditional roles and embrace change as a core capability in high-performing teams.
   positions:
   - designation: Certified Trainer
     start: Aug 2018
@@ -105,9 +105,8 @@ experiences:
     url: "https://www.Atos.net"
     location: Utrecht/Amstelveen
     # company overview
-    overview: 
+    overview: Atos is dedicated to designing digital solutions ranging from everyday applications to mission-critical systems, focusing on areas such as artificial intelligence, hybrid cloud, and infrastructure management. Through deep industry knowledge and technological expertise, Atos helps organizations reimagine their digital future — securely, sustainably, and at scale. As a trusted partner to both private and public sectors, Atos plays a pivotal role in enabling responsible innovation, driving operational excellence, and shaping a digital society built on reliability, trust, and ethical progress.
   positions:
-
   - designation: Senior IT Consultant
     start: Jun 2008
     end: Dec 2017
@@ -217,7 +216,8 @@ experiences:
     name: Nationaal Incasso Bureau
     url: "https://nibincasso.nl/"
     location: Amsterdam/Purmerend
-    overview: 
+    overview: Nationaal Incasso Bureau supports organizations in managing outstanding debts with professionalism, integrity, and care. As a specialist in both national and international debt collection, NIB combines decades of legal expertise with a modern, technology-enabled approach to recovery. The organization emphasizes ethical engagement and transparent communication, ensuring that clients maintain strong relationships while resolving financial obligations. With services in over 170 countries, NIB contributes to responsible credit management in an increasingly interconnected world.
+    
   positions:
   - designation: BI Developer / Crystal Reports Expert
     start: aug 2003

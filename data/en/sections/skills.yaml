@@ -13,61 +13,61 @@ section:
 skills:
 - name: DevOps
   logo: /images/sections/skills/devops1.png
+  weight: 6
   summary: "10 years of experience in the area of DevOps. Started as DevOps Engineer and grown to a trainer/coach in this field. Able to explain and teach the principles and best practices of DevOps. The 3 ways - Continuous Integration / Continuous Delivery - Culture and many more aspects. Certified trainer in many areas of DevOps like Foundation, Continuous Delivery Architecture, Leadership, Testing and Security"
 
 - name: Agile
   logo: /images/sections/skills/agile.png
+  weight: 8
   summary: "More than 13 years of experience in Agile Software Development. I have experienced Agile in different ways, as a Product Owner, Scrum Master and team member, later also as a coach. Able to explain how the 12 principles help making work more fun and easier. I can connect Agile to DevOps. "
 
 - name: Lean
   logo: /images/sections/skills/sigma.jpg
+  weight: 9
   summary: "Lean is the art of reducing waste and bottlenecks from your system. I have around 8 years of experience. Started out with one major project to improve internal processes at an Atos department, reducing waste from their processes. I also find it usefull to use Lean principles in DevOps. Vaue Stream Mapping, Improvement Kata and many canvasses are tools I use to improve teams an management."
 
 - name: Coaching
   logo: /images/sections/skills/coaching.jpg
+  weight: 2
   summary: "Results-driven and people-focused Engineering Manager with deep experience in DevOps coaching, team development, and technical leadership. Guides high-performing engineering teams by fostering autonomy, collaboration, and continuous growth. Known for leading by example, building learning cultures, and developing both technical and human potential. Combines solid engineering expertise with proven coaching skills to drive lasting impact in complex IT environments."
 
 - name: Training
   logo: /images/sections/skills/trainer.png
+  weight: 5
   summary: "Proficient in developing and delivering customized training programs that elevate both individual capabilities and team performance. I design learning experiences that are grounded in real-world practice, blending technical content with soft skills to support well-rounded professional growth. My approach is hands-on, engaging, and adaptive—ranging from technical deep-dives for engineers to growth-oriented sessions for future leaders. Through structured workshops, one-on-one mentoring, and knowledge-sharing initiatives, I create environments where learning is continuous, relevant, and empowering."
 
 - name: Leadership
   logo: /images/sections/skills/leader.png
+  weight: 1
   summary: "As a leader, I foster trust, autonomy, and alignment—balancing strategic vision with day-to-day coaching. I believe in leading by example, cultivating a psychologically safe space where people feel encouraged to take initiative and learn from failure. My leadership style is rooted in empathy, clarity, and accountability, with a focus on developing others through feedback, shared goals, and personal connection. I have successfully led multidisciplinary teams through periods of transformation, helping them scale, mature, and thrive in complex, high-demand environments."
-
-- name: Angular Development
-  logo: /images/sections/skills/angular.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program. as an experiment wrote my first online profile using AngularJs, check it out on markusvanduijn.nl."
-  url: "https://angular.io/"
 
 - name: Business Objects
   logo: /images/sections/skills/bo.png
+  weight: 12
   summary: "Business Intelligence specialist that worked with Business Objects and Crystal Reports to translate data into insights. I started out as a Business Intelligence specialist in my ealry days. Obtaining several certificates and creating meaningfull reports for customer purposes."
   url: "https://www.sap.com/products/bi-platform.html"
 
 - name: Finance
-  logo: 
-  summary: " "
+  logo: /images/sections/skills/finance.png
+  weight: 10
+  summary: "With a background in financial education (“Hoger Onderwijs voor de Financiële Sector”), I was originally trained for a mid-level managerial role within banking or insurance. Although I transitioned into IT early on, I have spent the majority of my career working within the financial sector. My affinity for numbers and financial systems has consistently helped me connect business objectives to technical implementations, enabling me to bridge the gap between stakeholders, risk, and engineering."
 
-- name: Docker
+- name: Cloud-Native Architecture & Containers
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+  weight: 4
+  summary: "Skilled in designing and deploying cloud-native solutions using Docker and Kubernetes as core components of modern application delivery. I build scalable, maintainable systems with multi-stage and multi-arch Docker setups, often integrated into CI/CD pipelines. Within Azure, I’ve helped teams develop secure, observable, and resilient architectures — from infrastructure design to monitoring and automation. In addition to hands-on implementation, I deliver internal trainings on Docker and Kubernetes fundamentals, focusing on practical use in engineering teams. These sessions support both platform engineers and developers in confidently adopting container-based workflows and cloud-native thinking."
 
-- name: Azure
-  logo: /images/sections/skills/azure.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Site Reliability Engineering (SRE)
+  logo: /images/sections/skills/sre.png
+  weight: 7
+  summary: Drawing from my work in engineering excellence and operational resilience, I incorporate SRE principles to improve service reliability and incident response. I have helped define and coach teams on observability standards, error budgets, and sustainable on-call practices. My focus is on creating resilient systems while maintaining developer velocity and ownership.
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Security & Compliance
+  loge: /images/sections/skills/security.png
+  weight: 3
+  summary: Extensive experience embedding security into modern software development, bridging engineering practices with risk awareness and regulatory alignment. I’ve worked on secure development standards, access controls, and audit readiness — translating frameworks like DORA into actionable, engineering-led policies. As a DevSecOps trainer and security coach, I’ve delivered numerous internal and external trainings on topics such as threat modeling, Zero Trust, secure CI/CD pipelines, and developer security awareness. At DevOn, I helped create and teach certified security programs, and contributed to industry knowledge by interviewing CISOs for a book on modern security practices. My approach to security is pragmatic, people-focused, and deeply integrated into the delivery lifecycle.
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab. Able to set up servers and understand branching strategies."
-  url: "https://git-scm.com/"
-
-- name: Programming languages
+- name: Software Engineering Foundations
   logo: /images/sections/skills/coder.png
-  summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."
+  weight: 11
+  summary: "Proficient in a range of programming languages and development tools essential for modern engineering. I’ve written code and unit tests in C#, Python, VBA, PHP, ABAP, and JavaScript, and have worked with front-end frameworks like AngularJS. I rely on Git-based workflows (GitHub, GitLab) and understand branching strategies, code review practices, and team collaboration models. My development is done in Linux environments, where I’m comfortable with scripting, command-line tools, and configuring systems. This foundational skill set allows me to stay hands-on, support engineers effectively, and build credibility in both coaching and technical leadership roles."

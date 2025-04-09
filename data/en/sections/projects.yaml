@@ -20,6 +20,8 @@ buttons:
   filter: "hobby"
 - name: Content
   filter: "content"
+- name: Code
+  filter: "code"
 
 # your projects
 projects:
@@ -30,7 +32,7 @@ projects:
   url: "" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Since 2011, Markus has been actively involved in designing, developing, and maintaining a variety of websites for different projects and stakeholders. Starting with MODX CMS and core HTML/CSS development, his early expertise led to multiple requests for assistance with both private and organizational web initiatives. Over time, he expanded his technical stack and delivered custom, responsive websites tailored to the needs of each audience. Throughout these projects, Markus developed a strong command of JavaScript, HTML5, and CSS3, while also integrating dynamic components using PHP, jQuery, AngularJS, and Bootstrap. He consistently applied user-centered design principles and responsive techniques to ensure seamless performance across devices and screen sizes. His contributions reflect a balanced focus on front-end interactivity and maintainable code structures within content management systems.
-  tags: ["hobby", "modx", "websites"]
+  tags: ["hobby", "code"]
 
 - name: AngularJs
   logo: /images/sections/projects/angular.png
@@ -61,15 +63,14 @@ projects:
   logo: /images/sections/projects/book2.png
   role: co-author
   timeline: "May 2023 - Mar 2024"
-  repo: https://github.com/kelseyhightower/nocode
   url: "https://devon.nl/en/book-the-cisos-guide-for-implementing-devsecops-in-the-enterprise/"
   summary: As a leading provider of DevSecOps services, DevOn has seen firsthand how organizations can benefit from these transformations. But despite the widespread adoption of DevSecOps, there are still many misconceptions about what it is and what it can help you achieve. In this book, we address common concerns and misconceptions about DevSecOps, drawing on the insights of technology leaders from a variety of European organizations. If you’re a modern-day leader looking to assess your organization’s performance or embark on a DevSecOps transformation, this book is a must-read. With the help of Irfaan Santoe, Rahul Sah, and Markus van Duijn, we’ve gathered the perspectives of 10 technology leaders from leading organizations to provide a comprehensive understanding of the current state and future of DevSecOps. Don’t miss out on the opportunity to gain valuable insights and learn from their organizations’ performance. 
   tags: ["academic","professional","content"]
 
-- name: Toha
+- name: Hugo Resume Project – Personal Site with Full Code Ownership
   logo: /images/sections/projects/toha.png
-  role: Owner
+  role: Builder
   timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  repo: https://github.com/manincNL/markus-profile
+  summary: "This project involved setting up a professional personal website using the Hugo static site generator and the Toha theme. The journey began with configuring the core Hugo framework and customizing the Toha layout to match a unique personal branding style. After successfully running the site locally, the project transitioned to deploying the site via GitHub Pages. A key highlight was configuring a custom domain and linking it to the GitHub Pages deployment, ensuring the website could be served securely and reliably from a personal domain. The result is a fast, fully responsive website hosted on a version-controlled production branch — offering complete ownership of both the source code and the deployment process. This setup not only enhances professionalism but also enables continuous improvement and experimentation without vendor lock-in."
+  tags: ["hobby","code"]

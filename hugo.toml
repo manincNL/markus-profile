@@ -9,3 +9,6 @@ darkBackground = "images/site/default-background.jpg" # optioneel voor dark mode
 
 [params.logo]
 favicon = "images/site/favicon.png"
+
+[params.topNavbar]
+maxVisibleSections = 7

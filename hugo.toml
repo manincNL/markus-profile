@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://manincnl.github.io/markus-profile/'
 languageCode = 'en-us'
 title = 'Markus van Duijn | Profile'
 theme = "toha"

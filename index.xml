@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markus van Duijn | Profile</title>
-    <link>https://manincnl.github.io/markus-profile/</link>
+    <link>https://markusvanduijn.nl/</link>
     <description>Recent content on Markus van Duijn | Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://manincnl.github.io/markus-profile/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://markusvanduijn.nl/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Introduction</title>
-      <link>https://manincnl.github.io/markus-profile/posts/introduction/</link>
+      <link>https://markusvanduijn.nl/posts/introduction/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://manincnl.github.io/markus-profile/posts/introduction/</guid>
+      <guid>https://markusvanduijn.nl/posts/introduction/</guid>
       <description>&lt;p&gt;Greeting! This is an introduction post. This post tests the followings:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hero image is in the same directory as the post.&lt;/li&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>https://manincnl.github.io/markus-profile/posts/category/sub-category/rich-content/</link>
+      <link>https://markusvanduijn.nl/posts/category/sub-category/rich-content/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://manincnl.github.io/markus-profile/posts/category/sub-category/rich-content/</guid>
+      <guid>https://markusvanduijn.nl/posts/category/sub-category/rich-content/</guid>
       <description>&lt;p&gt;This sample post tests the followings:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Category, sub-category nesting in the sidebar.&lt;/li&gt;
@@ -33,7 +33,7 @@
 &lt;li&gt;Different media rendering like image, tweet, YouTube video, Vimeo video etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;image-sample&#34;&gt;Image Sample&lt;/h3&gt;
-&lt;img src=&#34;https://manincnl.github.io/markus-profile/posts/category/sub-category/rich-content/images/forest.jpg&#34;
+&lt;img src=&#34;https://markusvanduijn.nl/posts/category/sub-category/rich-content/images/forest.jpg&#34;
     
         alt=&#34;Forest&#34;
     
@@ -61,10 +61,10 @@
     
     <item>
       <title>Shortcodes Samples</title>
-      <link>https://manincnl.github.io/markus-profile/posts/shortcodes/</link>
+      <link>https://markusvanduijn.nl/posts/shortcodes/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://manincnl.github.io/markus-profile/posts/shortcodes/</guid>
+      <guid>https://markusvanduijn.nl/posts/shortcodes/</guid>
       <description>&lt;p&gt;This is a sample post intended to test the followings:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Default hero image.&lt;/li&gt;
@@ -145,7 +145,7 @@
 
 &lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
 &lt;h4 id=&#34;a-sample-image-without-any-attribute&#34;&gt;A sample image without any attribute.&lt;/h4&gt;
-&lt;img src=&#34;https://manincnl.github.io/markus-profile/posts/shortcodes/boat.jpg&#34;
+&lt;img src=&#34;https://markusvanduijn.nl/posts/shortcodes/boat.jpg&#34;
     
         alt=&#34;A boat at the sea&#34;
     
@@ -157,7 +157,7 @@
 
 &lt;div style=&#34;margin-top: 3rem;&#34;&gt;&lt;/div&gt;
 &lt;h4 id=&#34;a-sample-image-with-height-and-width-attributes&#34;&gt;A sample image with &lt;code&gt;height&lt;/code&gt; and &lt;code&gt;width&lt;/code&gt; attributes.&lt;/h4&gt;
-&lt;img src=&#34;https://manincnl.github.io/markus-profile/posts/shortcodes/boat.jpg&#34;
+&lt;img src=&#34;https://markusvanduijn.nl/posts/shortcodes/boat.jpg&#34;
     
         alt=&#34;A boat at the sea&#34;
     
@@ -173,7 +173,7 @@
 
 &lt;div style=&#34;margin-top: 3rem;&#34;&gt;&lt;/div&gt;
 &lt;h4 id=&#34;a-center-aligned-image-with-height-and-width-attributes&#34;&gt;A center aligned image with &lt;code&gt;height&lt;/code&gt; and &lt;code&gt;width&lt;/code&gt; attributes.&lt;/h4&gt;
-&lt;img src=&#34;https://manincnl.github.io/markus-profile/posts/shortcodes/boat.jpg&#34;
+&lt;img src=&#34;https://markusvanduijn.nl/posts/shortcodes/boat.jpg&#34;
     
         alt=&#34;A boat at the sea&#34;
     
@@ -191,7 +191,7 @@
 
 &lt;div style=&#34;margin-top: 3rem;&#34;&gt;&lt;/div&gt;
 &lt;h4 id=&#34;a-image-with-float-attribute&#34;&gt;A image with &lt;code&gt;float&lt;/code&gt; attribute.&lt;/h4&gt;
-&lt;img src=&#34;https://manincnl.github.io/markus-profile/posts/shortcodes/boat.jpg&#34;
+&lt;img src=&#34;https://markusvanduijn.nl/posts/shortcodes/boat.jpg&#34;
     
         alt=&#34;A boat at the sea&#34;
     
@@ -210,454 +210,37 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Resultados de Búsqueda</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño &lt;code&gt;search&lt;/code&gt; relacionada.&lt;/p&gt;
-&lt;p&gt;No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.&lt;/p&gt;
-&lt;p&gt;Esta implementación utiliza Fusejs, jquery y mark.js&lt;/p&gt;
-&lt;h2 id=&#34;configuración-inicial&#34;&gt;Configuración inicial&lt;/h2&gt;
-&lt;p&gt;La búsqueda depende del tipo de contenido de salida adicional de JSON en config.toml&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Resultados de Búsqueda</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño &lt;code&gt;search&lt;/code&gt; relacionada.&lt;/p&gt;
-&lt;p&gt;No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.&lt;/p&gt;
-&lt;p&gt;Esta implementación utiliza Fusejs, jquery y mark.js&lt;/p&gt;
-&lt;h2 id=&#34;configuración-inicial&#34;&gt;Configuración inicial&lt;/h2&gt;
-&lt;p&gt;La búsqueda depende del tipo de contenido de salida adicional de JSON en config.toml&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>Suchergebnisse</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
-    <item>
-      <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://manincnl.github.io/markus-profile/notes/go/basic/introduction/</link>
+      <link>https://markusvanduijn.nl/notes/go/basic/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manincnl.github.io/markus-profile/notes/go/basic/introduction/</guid>
+      <guid>https://markusvanduijn.nl/notes/go/basic/introduction/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Hello World&lt;/span&gt;&lt;/h5&gt;
@@ -719,10 +302,10 @@ home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
     
     <item>
       <title>Basic Types</title>
-      <link>https://manincnl.github.io/markus-profile/notes/go/basic/types/</link>
+      <link>https://markusvanduijn.nl/notes/go/basic/types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manincnl.github.io/markus-profile/notes/go/basic/types/</guid>
+      <guid>https://markusvanduijn.nl/notes/go/basic/types/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Strings&lt;/span&gt;&lt;/h5&gt;
@@ -788,10 +371,10 @@ home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
     
     <item>
       <title>Flow Control</title>
-      <link>https://manincnl.github.io/markus-profile/notes/go/basic/flow-control/</link>
+      <link>https://markusvanduijn.nl/notes/go/basic/flow-control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manincnl.github.io/markus-profile/notes/go/basic/flow-control/</guid>
+      <guid>https://markusvanduijn.nl/notes/go/basic/flow-control/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Condition&lt;/span&gt;&lt;/h5&gt;
@@ -859,10 +442,10 @@ home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
     
     <item>
       <title>File Manipulation</title>
-      <link>https://manincnl.github.io/markus-profile/notes/go/advanced/files/</link>
+      <link>https://markusvanduijn.nl/notes/go/advanced/files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manincnl.github.io/markus-profile/notes/go/advanced/files/</guid>
+      <guid>https://markusvanduijn.nl/notes/go/advanced/files/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Condition&lt;/span&gt;&lt;/h5&gt;
@@ -886,10 +469,10 @@ home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
     
     <item>
       <title>Bash Variables</title>
-      <link>https://manincnl.github.io/markus-profile/notes/bash/basic/</link>
+      <link>https://markusvanduijn.nl/notes/bash/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://manincnl.github.io/markus-profile/notes/bash/basic/</guid>
+      <guid>https://markusvanduijn.nl/notes/bash/basic/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Variable&lt;/span&gt;&lt;/h5&gt;
@@ -922,23 +505,6 @@ home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
 &lt;/div&gt;</description>
     </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://manincnl.github.io/markus-profile/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://manincnl.github.io/markus-profile/search/</guid>
-      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
-&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
-&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
-&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
-&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
-&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
-```
-[outputs]
-home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p&gt;</description>
-    </item>
     
     
   </channel>

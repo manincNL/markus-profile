@@ -16,6 +16,7 @@ company:
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Markus van Duijn.pdf"
+short_resume: "files/Markus van Duijn_short.pdf"
 
 # a summary about you
 summary: "Markus van Duijn is a strategic engineering leader and DevOps expert with a passion for people, performance, and purpose. Over the past decade, he has guided organizations through complex transformations—bridging deep technical knowledge with leadership that empowers, inspires, and delivers results.
@@ -41,10 +42,6 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/markus-van-duijn/"
-  
-- name: Springest
-  icon: "fa fa-graduation-cap"
-  url: "https://www.springest.nl/u/m-a-n-van-duijn"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

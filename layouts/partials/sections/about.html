@@ -45,6 +45,11 @@
         ><button class="btn btn-dark">{{ i18n "resume"}}</button></a
       >
       {{ end }}
+	  {{ if .short_resume }}
+	  <a href="{{ .short_resume | relURL }}" title="One-page CV" target="#"
+	    ><button class="btn btn-dark">1-Page CV</button></a
+	  >
+      {{ end }}
       {{ range .resourceLinks }}
       <a href="{{ .url | relURL }}" title="{{ .title }}" target="#"
         ><button class="btn btn-dark">{{ .title }}</button></a

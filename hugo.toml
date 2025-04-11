@@ -12,3 +12,6 @@ favicon = "images/site/favicon.png"
 
 [params.topNavbar]
 maxVisibleSections = 7
+
+[params.features.blog]
+enable = true

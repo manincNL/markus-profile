@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markus van Duijn | Profile</title>
-    <link>http://localhost:1313/</link>
+    <link>https://markusvanduijn.nl/</link>
     <description>Recent content on Markus van Duijn | Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2025 20:21:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 09 Apr 2025 20:21:25 +0100</lastBuildDate><atom:link href="https://markusvanduijn.nl/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Why Learning Cultures Are the Key to High-Performing Engineering Teams</title>
-      <link>http://localhost:1313/posts/leadership/learning-culture/</link>
+      <link>https://markusvanduijn.nl/posts/leadership/learning-culture/</link>
       <pubDate>Wed, 09 Apr 2025 20:21:25 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/leadership/learning-culture/</guid>
+      <guid>https://markusvanduijn.nl/posts/leadership/learning-culture/</guid>
       <description>&lt;p&gt;In today’s fast-moving tech landscape, tools and frameworks evolve at a pace that can leave even the best teams struggling to keep up. But high performance in engineering isn’t just about staying current with technology — it’s about building a culture where learning is embedded into the way teams think, collaborate, and grow. As an Engineering Manager, I’ve seen firsthand how fostering a culture of continuous learning isn’t a “nice to have” — it’s a strategic advantage. In this post, I’ll share what a true learning culture looks like, why it matters, and how you can start building one in your own team.&lt;/p&gt;</description>
     </item>
     
@@ -42,10 +42,10 @@
     
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/notes/go/basic/introduction/</link>
+      <link>https://markusvanduijn.nl/notes/go/basic/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/go/basic/introduction/</guid>
+      <guid>https://markusvanduijn.nl/notes/go/basic/introduction/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Hello World&lt;/span&gt;&lt;/h5&gt;
@@ -107,10 +107,10 @@
     
     <item>
       <title>Basic Types</title>
-      <link>http://localhost:1313/notes/go/basic/types/</link>
+      <link>https://markusvanduijn.nl/notes/go/basic/types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/go/basic/types/</guid>
+      <guid>https://markusvanduijn.nl/notes/go/basic/types/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Strings&lt;/span&gt;&lt;/h5&gt;
@@ -176,10 +176,10 @@
     
     <item>
       <title>Flow Control</title>
-      <link>http://localhost:1313/notes/go/basic/flow-control/</link>
+      <link>https://markusvanduijn.nl/notes/go/basic/flow-control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/go/basic/flow-control/</guid>
+      <guid>https://markusvanduijn.nl/notes/go/basic/flow-control/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Condition&lt;/span&gt;&lt;/h5&gt;
@@ -247,10 +247,10 @@
     
     <item>
       <title>File Manipulation</title>
-      <link>http://localhost:1313/notes/go/advanced/files/</link>
+      <link>https://markusvanduijn.nl/notes/go/advanced/files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/go/advanced/files/</guid>
+      <guid>https://markusvanduijn.nl/notes/go/advanced/files/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Condition&lt;/span&gt;&lt;/h5&gt;
@@ -274,10 +274,10 @@
     
     <item>
       <title>Bash Variables</title>
-      <link>http://localhost:1313/notes/bash/basic/</link>
+      <link>https://markusvanduijn.nl/notes/bash/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/bash/basic/</guid>
+      <guid>https://markusvanduijn.nl/notes/bash/basic/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Variable&lt;/span&gt;&lt;/h5&gt;

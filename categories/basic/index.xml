@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basic on Markus van Duijn | Profile</title>
-    <link>https://markusvanduijn.nl/categories/basic/</link>
+    <link>http://localhost:1313/categories/basic/</link>
     <description>Recent content in Basic on Markus van Duijn | Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2025 20:21:25 +0100</lastBuildDate><atom:link href="https://markusvanduijn.nl/categories/basic/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 09 Apr 2025 20:21:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/basic/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Why Learning Cultures Are the Key to High-Performing Engineering Teams</title>
-      <link>https://markusvanduijn.nl/posts/leadership/learning-culture/</link>
+      <link>http://localhost:1313/posts/leadership/learning-culture/</link>
       <pubDate>Wed, 09 Apr 2025 20:21:25 +0100</pubDate>
       
-      <guid>https://markusvanduijn.nl/posts/leadership/learning-culture/</guid>
+      <guid>http://localhost:1313/posts/leadership/learning-culture/</guid>
       <description>&lt;p&gt;In today’s fast-moving tech landscape, tools and frameworks evolve at a pace that can leave even the best teams struggling to keep up. But high performance in engineering isn’t just about staying current with technology — it’s about building a culture where learning is embedded into the way teams think, collaborate, and grow. As an Engineering Manager, I’ve seen firsthand how fostering a culture of continuous learning isn’t a “nice to have” — it’s a strategic advantage. In this post, I’ll share what a true learning culture looks like, why it matters, and how you can start building one in your own team.&lt;/p&gt;</description>
     </item>
     

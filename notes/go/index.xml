@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go Notes on Markus van Duijn | Profile</title>
-    <link>https://markusvanduijn.nl/notes/go/</link>
+    <link>http://localhost:1313/notes/go/</link>
     <description>Recent content in Go Notes on Markus van Duijn | Profile</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://markusvanduijn.nl/notes/go/index.xml" rel="self" type="application/rss+xml" /><item>
+    <language>en-us</language><atom:link href="http://localhost:1313/notes/go/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Introduction</title>
-      <link>https://markusvanduijn.nl/notes/go/basic/introduction/</link>
+      <link>http://localhost:1313/notes/go/basic/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://markusvanduijn.nl/notes/go/basic/introduction/</guid>
+      <guid>http://localhost:1313/notes/go/basic/introduction/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Hello World&lt;/span&gt;&lt;/h5&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>Basic Types</title>
-      <link>https://markusvanduijn.nl/notes/go/basic/types/</link>
+      <link>http://localhost:1313/notes/go/basic/types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://markusvanduijn.nl/notes/go/basic/types/</guid>
+      <guid>http://localhost:1313/notes/go/basic/types/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Strings&lt;/span&gt;&lt;/h5&gt;
@@ -141,10 +141,10 @@
     
     <item>
       <title>Flow Control</title>
-      <link>https://markusvanduijn.nl/notes/go/basic/flow-control/</link>
+      <link>http://localhost:1313/notes/go/basic/flow-control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://markusvanduijn.nl/notes/go/basic/flow-control/</guid>
+      <guid>http://localhost:1313/notes/go/basic/flow-control/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Condition&lt;/span&gt;&lt;/h5&gt;
@@ -212,10 +212,10 @@
     
     <item>
       <title>File Manipulation</title>
-      <link>https://markusvanduijn.nl/notes/go/advanced/files/</link>
+      <link>http://localhost:1313/notes/go/advanced/files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://markusvanduijn.nl/notes/go/advanced/files/</guid>
+      <guid>http://localhost:1313/notes/go/advanced/files/</guid>
       <description>&lt;div class=&#34;note-card &#34;&gt;
     &lt;div class=&#34;item&#34;&gt;
         &lt;h5 class=&#34;note-title&#34;&gt;&lt;span&gt;Condition&lt;/span&gt;&lt;/h5&gt;

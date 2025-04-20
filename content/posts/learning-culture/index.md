@@ -1,16 +1,15 @@
 ---
 title: "Why Learning Cultures Are the Key to High-Performing Engineering Teams"
-date: 2025-04-09T20:21:25+01:00
+date: 2025-04-09T20:21:25-01:00
 description: In today’s fast-moving tech landscape, tools and frameworks evolve at a pace that can leave even the best teams struggling to keep up. But high performance in engineering isn’t just about staying current with technology — it’s about building a culture where learning is embedded into the way teams think, collaborate, and grow. As an Engineering Manager, I’ve seen firsthand how fostering a culture of continuous learning isn’t a “nice to have” — it’s a strategic advantage. In this post, I’ll share what a true learning culture looks like, why it matters, and how you can start building one in your own team.
-<!--menu:
+menu:
   sidebar:
     name: Learning Cultures
     identifier: learning-culture
-    parent: leadership-&-culture
-    weight: 10 -->
-hero: images/hero.png
-tags: ["Markdown","Content Organization","Multi-lingual"]
-categories: ["Basic"]
+    weight: 10
+hero: hero.png
+tags: ["Leadership","Learning","Culture"]
+categories: ["Leadership"]
 ---
 
 In today’s fast-moving tech landscape, tools and frameworks evolve at a pace that can leave even the best teams struggling to keep up. But high performance in engineering isn’t just about staying current with technology — it’s about building a culture where learning is embedded into the way teams think, collaborate, and grow. As an Engineering Manager, I’ve seen firsthand how fostering a culture of continuous learning isn’t a “nice to have” — it’s a strategic advantage. In this post, I’ll share what a true learning culture looks like, why it matters, and how you can start building one in your own team.

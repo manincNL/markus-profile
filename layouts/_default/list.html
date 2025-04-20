@@ -30,21 +30,85 @@
 {{ define "content" }}
 <section class="content-section" id="content-section">
   <div class="content container-fluid" id="content">
+
+    <!-- Filter Bar -->
+    <div class="tag-filter-bar mb-4">
+      <strong>Filter by tag:</strong>
+      <button class="filter-btn" data-tag="all">Show All</button>
+      {{ range $name, $taxonomy := site.Taxonomies.tags }}
+        <button class="filter-btn" data-tag="{{ $name }}">{{ $name }}</button>
+      {{ end }}
+    </div>
+
+    <!-- Posts -->
     <div class="container-fluid post-card-holder" id="post-card-holder">
       {{ $posts := where .RegularPagesRecursive "Layout" "!=" "search" }}
-      {{ $numShow := site.Params.features.pagination.maxPostsPerPage | default 12}}
+      {{ $numShow := site.Params.features.pagination.maxPostsPerPage | default 12 }}
       {{ $paginator := .Paginate $posts $numShow }}
       {{ range $paginator.Pages }}
         {{ if .Layout }}
-          {{/* ignore the search.md file*/}}
+          {{/* skip special layout pages */}}
         {{ else }}
-          {{ partial "cards/post.html" . }}
+          <div class="post-card-wrapper" data-tags="{{ delimit .Params.tags " " }}">
+            {{ partial "cards/post.html" . }}
+          </div>
         {{ end }}
       {{ end }}
     </div>
+
+    <!-- Pagination -->
     <div class="paginator">
       {{ template "_internal/pagination.html" . }}
     </div>
+
   </div>
 </section>
+
+<!-- Filter Script -->
+<script>
+  const filterButtons = document.querySelectorAll(".filter-btn");
+  const postCards = document.querySelectorAll(".post-card-wrapper");
+
+  filterButtons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      const selected = btn.dataset.tag;
+
+      filterButtons.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+
+      postCards.forEach(card => {
+        const tags = card.dataset.tags.toLowerCase().split(" ");
+        const show = selected === "all" || tags.includes(selected.toLowerCase());
+        card.style.display = show ? "block" : "none";
+      });
+    });
+  });
+</script>
+
+<!-- Styling -->
+<style>
+  .tag-filter-bar {
+    margin-top: 2.5em;
+    margin-bottom: 1rem;
+  }
+
+  .filter-btn {
+    margin: 0.25rem;
+    padding: 6px 12px;
+    border: none;
+    background-color: #eee;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+  }
+
+  .filter-btn:hover,
+  .filter-btn.active {
+    background-color: #ccc;
+  }
+
+  .post-card-wrapper {
+    margin-bottom: 2rem;
+  }
+</style>
 {{ end }}

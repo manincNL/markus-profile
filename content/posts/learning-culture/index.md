@@ -76,3 +76,23 @@ Promote people not only for shipping features but for mentoring others, improvin
 
 6. Protect Time
 This might be the hardest part — but also the most important. Even if it’s just a few hours a month, protect time for learning the same way you protect time for delivery. Otherwise, it will always be the first thing to slip.
+
+## A Personal Example: Learning as a Ritual, Not an Event
+At one of my previous employers — a consultancy company — there was a powerful tradition: every Friday, the entire company came together for four hours. It wasn’t an offsite or a quarterly event. It was every week. Mandatory, but framed as something we all looked forward to.
+
+The format was simple but intentional: we’d start by checking in with each other — not just professionally, but personally. We shared how we were doing, looked at the company’s financials, and gave updates on our assignments. Then we had three 45-minute slots where anyone could share something, ask for help, run a dry-run of a workshop, or explore an idea. People even started a podcast during lunch breaks. Over time, it became part of our DNA.
+
+What stood out most was how real it felt. There was even a light-hearted competition for “biggest f***-up” — and yes, there was a prize. It created a space where people could be honest, vulnerable, and curious without fear. Most new hires were closed on Fridays, because candidates would present to the group — and the group would decide with a Roman vote. That tells you how deeply this rhythm was embedded in the company’s trust and learning culture.
+
+What I took from that experience is how valuable consistency is. The Fridays happened no matter what — even if revenue was down, even if things were busy. And because of that, it created a deep sense of connection. I’ve worked at other consultancies where all that mattered was margin and billable hours. There, I felt more like I belonged to the client than the company that employed me. Here, it was different. This was a place where people learned from each other, supported each other, and stayed connected to something bigger than just their project.
+
+Would this work in every organization? Not exactly. It needs to be adapted to the culture. But the principle — creating a regular, intentional space to learn and connect — is something I’ve carried with me ever since.
+
+## Why It Pays Off
+When teams commit to learning, they don’t just level up technically — they start to think differently. They become more adaptable, more collaborative, and more resilient in the face of change. They recover faster from mistakes, onboard faster into new domains, and communicate more openly. In short: they grow — together.
+
+For leaders, fostering a learning culture isn’t about being the smartest in the room or delivering a perfect playbook. It’s about making space for growth and showing people that learning isn’t a detour — it’s the path. I’ve seen firsthand how teams that feel supported in their development take more initiative, stay more engaged, and deliver better outcomes.
+
+And maybe most importantly: learning cultures retain people. Not because of perks or processes, but because they create a sense of purpose and progress. People want to stay where they feel seen, challenged, and connected.
+
+In fast-moving environments, the teams that learn the fastest often win — not because they never fail, but because they know how to reflect, adapt, and move forward together.

@@ -10,6 +10,15 @@ body.kind-page {
     margin: 0;
     width: 100%;
 
+
+.post-card {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 auto !important;
+  flex: 1 1 100% !important;
+}
+
     .content-section {
       flex: 80%;
       order: 2;
@@ -71,7 +80,6 @@ body.kind-page {
     .wrapper {
       padding-left: 0px;
       padding-right: 0px;
-      flex-flow: column;
       overflow: hidden;
 
       .content-section {
@@ -104,7 +112,7 @@ body.kind-page {
 
   @include media('>=medium', '<large') {
     .post-card {
-      width: calc(100% / 2);
+      width: 100%;
     }
     .content-section.hide {
       .post-card {
@@ -115,7 +123,7 @@ body.kind-page {
 
   @include media('>=large', '<very-large') {
     .post-card {
-      width: calc(100% / 3);
+      width: 100%;
     }
     .wrapper {
       padding-left: 0px;
@@ -144,7 +152,7 @@ body.kind-page {
         }
         &.hide {
           .post-card {
-            width: calc(100% / 2);
+            width: 100%;
           }
         }
       }
@@ -153,7 +161,7 @@ body.kind-page {
 
   @include media('>=very-large', '<extra-large') {
     .post-card {
-      width: calc(100% / 4);
+      width: 100%;
     }
     .post-card-holder {
       margin-left: 0px;
@@ -162,7 +170,7 @@ body.kind-page {
 
   @include media('>=extra-large') {
     .post-card {
-      width: calc(100% / 5);
+      width: 100%;
     }
     .content-section {
       padding-left: 1rem;
@@ -171,6 +179,15 @@ body.kind-page {
       max-width: 85%;
     }
   }
+}
+@media (max-width: 639px) {
+  .wrapper {
+      padding-left: 0px;
+      padding-right: 0px;
+      overflow: hidden;
+	  flex-flow: column;
+	}
+
 }
 
 html[data-theme='dark'] {

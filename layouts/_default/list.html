@@ -1,11 +1,11 @@
 {{ define "navbar" }}
-    {{ partial "navigators/navbar.html" . }}
+  {{ partial "navigators/navbar.html" . }}
 {{ end }}
 
 {{ define "sidebar" }}
-  {{ $homePage:="#" }}
+  {{ $homePage := "#" }}
   {{ if hugo.IsMultilingual }}
-    {{ $homePage = (path.Join (cond ( eq .Language.Lang "en") "" .Language.Lang) .Type) }}
+    {{ $homePage = (path.Join (cond (eq .Language.Lang "en") "" .Language.Lang) .Type) }}
   {{ end }}
 
   <section class="sidebar-section" id="sidebar-section">
@@ -16,9 +16,11 @@
         </form>
         <div class="sidebar-tree">
           <ul class="tree" id="tree">
-            <li id="list-heading"><a href="{{ .Type | relLangURL }}" data-filter="all">{{ i18n .Type }}</a></li>
+            <li id="list-heading">
+              <a href="{{ .Type | relLangURL }}" data-filter="all">{{ i18n .Type }}</a>
+            </li>
             <div class="subtree">
-                {{ partial "navigators/sidebar.html" (dict "menuName" "sidebar" "menuItems" site.Menus.sidebar "ctx" .) }}
+              {{ partial "navigators/sidebar.html" (dict "menuName" "sidebar" "menuItems" site.Menus.sidebar "ctx" .) }}
             </div>
           </ul>
         </div>
@@ -40,20 +42,20 @@
       {{ end }}
     </div>
 
-    <!-- Posts -->
+    <!-- Post Cards -->
     <div class="container-fluid post-card-holder" id="post-card-holder">
-      {{ $posts := where .RegularPagesRecursive "Layout" "!=" "search" }}
-      {{ $numShow := site.Params.features.pagination.maxPostsPerPage | default 12 }}
-      {{ $paginator := .Paginate $posts $numShow }}
-      {{ range $paginator.Pages }}
-        {{ if .Layout }}
-          {{/* skip special layout pages */}}
-        {{ else }}
-          <div class="post-card-wrapper" data-tags="{{ delimit .Params.tags " " }}">
-            {{ partial "cards/post.html" . }}
-          </div>
-        {{ end }}
-      {{ end }}
+	  <div class="row">
+		{{ $posts := where .RegularPagesRecursive "Layout" "!=" "search" }}
+		{{ $numShow := site.Params.features.pagination.maxPostsPerPage | default 12 }}
+		{{ $paginator := .Paginate $posts $numShow }}
+		{{ range $paginator.Pages }}
+		  {{ if not .Layout }}
+			<div class="col-lg-3 col-md-4 col-sm-6 col-12 post-card-wrapper" data-tags="{{ delimit .Params.tags " " }}">
+			  {{ partial "cards/post.html" . }}
+			</div>
+	      {{ end }}
+	    {{ end }}
+	  </div>
     </div>
 
     <!-- Pagination -->
@@ -77,9 +79,9 @@
       btn.classList.add("active");
 
       postCards.forEach(card => {
-        const tags = card.dataset.tags.toLowerCase().split(" ");
+        const tags = card.dataset.tags?.toLowerCase().split(" ") || [];
         const show = selected === "all" || tags.includes(selected.toLowerCase());
-        card.style.display = show ? "block" : "none";
+        card.classList.toggle("d-none", !show);
       });
     });
   });
@@ -109,6 +111,16 @@
 
   .post-card-wrapper {
     margin-bottom: 2rem;
+  }
+  
+  .post-card-wrapper {
+    transition: all 0.3s ease;
+  }
+  
+  .post-card-wrapper .card {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
   }
 </style>
 {{ end }}

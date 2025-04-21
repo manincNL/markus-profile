@@ -1,0 +1,42 @@
+{{ $sectionID := replace (lower .section.name) " " "-" }}
+{{ if .section.id }}
+  {{ $sectionID = .section.id }}
+{{ end }}
+
+{{ with .section }}
+<div class="container-fluid anchor pb-5 logos-section" id="{{ $sectionID }}">
+
+  {{ if .logos }}
+    <div class="d-flex flex-wrap justify-content-center align-items-center gap-4">
+      {{ range .logos }}
+        <img src="{{ .image | relURL }}" alt="{{ .name }}" height="40" loading="lazy">
+      {{ end }}
+    </div>
+  {{ else }}
+    <p class="text-center text-muted">⚠️ Geen logo’s beschikbaar.</p>
+  {{ end }}
+</div>
+{{ end }}
+
+
+<style>
+.logos-section img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  padding: 5px;
+  background-color: white;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  filter: grayscale(100%);
+  opacity: 0.8;
+}
+
+.logos-section img:hover {
+  transform: scale(1.05);
+  filter: none;
+  opacity: 1;
+  border-color: #666;
+}
+</style>

@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Logos
+  id: logos
+  enable: true
+  weight: 20
+  showOnNavbar: false
+  template: sections/logos.html
+  logos:
+    - name: "Nationale Nederlanden"
+      url: "https://companyone.com"
+      image: "images/logos/nn.jpg"
+    - name: "Devon"
+      url: "https://companytwo.com"
+      image: "images/logos/devon2.png"
+    - name: "Coca Cola Hellenic"
+      url: "https://companytwo.com"
+      image: "images/logos/cocacola.png"
+    - name: "IPP/PRS"
+      url: "https://companytwo.com"
+      image: "images/logos/ipp.jpg"
+    - name: "ABN Amro"
+      url: "https://companytwo.com"
+      image: "images/logos/abn.jpg"
+    - name: "Stedin"
+      url: "https://companythree.com"
+      image: "images/logos/stedin.jpg"
+    - name: "Achmea"
+      url: #
+      image: "images/logos/achmea.png"
+    - name: "Atos"
+      url: "https://companythree.com"
+      image: "images/logos/atos.png"
+    - name: "ING Nederland"
+      url: "https://companythree.com"
+      image: "images/logos/ing.png"      
+    - name: "NIB Incasso"
+      url: "https://companythree.com"
+      image: "images/logos/nib.jpg"

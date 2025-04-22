@@ -57,7 +57,41 @@ experiences:
     start: Jan 2018
     end: Jun 2023
     responsibilities:
-    - "As a technical consultant I had many different tasks like: <ul><li>The contentual conduct of technical Agile and Scrum transitions with customers</li><li>Setting up Continuous Delivery or DevOps at our clients</li><li>Collaborating with and advising senior management, architects and the business to keep the transformation going</li><li>Not only lead the transition, but also hand-on working on a successful result</li><li>Transfer skills and teaching a new mindset to technical teams</li><li>Facilitate technical trainings, open course as well as at customers</li><li>Share knowledge on both external and internal events</li></ul>"
+    - | 
+      As a technical consultant I had many different tasks like: 
+      - The contentual conduct of technical Agile and Scrum transitions with customers
+      - Setting up Continuous Delivery or DevOps at our clients
+      - Collaborating with and advising senior management, architects and the business to keep the transformation going
+      - Not only lead the transition, but also hand-on working on a successful result
+      - Transfer skills and teaching a new mindset to technical teams
+      - Facilitate technical trainings, open course as well as at customers
+      - Share knowledge on both external and internal events
+
+  - designation: DevSecOps Transformation Consultant @Coca Cola Hellenic
+    start: Dec 2022
+    end: May 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "As a DevSecOps transformation consultant, I helped setting up the DevSecOps transformation. I have successfully established outlines, milestones, governance, and security policies to drive organizational growth. By conducting value stream mappings and assessments, I have created customized roadmaps for pilot teams, enabling them to navigate their transformation journey. Additionally, I have implemented a comprehensive training program for teams, leaders, and ISOs, ensuring a strong foundation in security and DevOps principles. With my expertise in bridging the gap between security and development, I am well-equipped to contribute to transformative initiatives that enhance security and optimize business operations."
+
+  - designation: Agile Engagement Lead @IPP/PRS
+    start: Sep 2022
+    end: May 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "As an Engagement Lead I have a lot of experience in structuring, leading and advising on complex transformations and I have experience in coaching and guiding management and teams. In the first phase of the transformation, I mainly advised and supported in starting the Agile Transformation and creating a safe atmosphere and environment in which the teams can grow."
+    - |
+      Important tasks as the Engagement Lead are:
+      - Taking you by the hand in the journey to an Agile organization; 
+      - Guiding, advising and supporting in the recruitment and selection of new employees for the newly established Agile teams;
+      - Advice, coaching and support in determining the vision, \"why\" and objectives of the Agile Transformation; when translating the objectives into concrete KPIs; in determining an initial Agile Transformation Backlog; 
+      - Starting up the Agile transformation and setting up the Agile Transformation Team;
+      Supporting and synchronizing the Agile Transformation Team for the execution of the Agile
+      Transformation; Advise and support in determining the follow-up approach and provide input for training and development of employees and management (top down);
   
   - designation: CI/CD Enabler @ABN Amro bank
     start: jun 2019
@@ -66,8 +100,17 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - "ABN AMRO organizes a transformation in which Agile teams are steered towards DevOps, in a controlled manner. Markus’ responsibilities are: <ul><li>Bringing together Development and Operations responsibilities and teaching new behavior and skills.</li><li>Teach the new way of working, which implies a modular software architecture and the use of a highly automated software delivery pipeline (CI/CD).</li></ul>"
-    - "As a CI/CD enabler Markus acts as a catalyst in shaping excellence to enable teams to improve their IT performance (lead time for changes, release frequency, change fail rate, time to restore service and availability). He is assessing teams on their current IT-performance and work together with the team and their stakeholders to identify improvements that can help the teams IT-performance. Markus assists the teams in changing their way of working to be able to use a highly automated software delivery pipeline. To help the teams he is closely collaborating with different supporting parties that are providing default platforms, architecture and CI/CD Pipelines. Markus brings the following knowledge and experience to the table: <ul><li>he keeps his knowledge up to speed in this rapid changing world</li><li>he is able to demonstrate development techniques.</li><li>he knows how to inspire and how to encourage teams.</li><li>he is focused on delivering value in an automated and controlled way.</li><li>He knows about the cultural diversity in large scale organizations with offshore capabilities and how to handle delicate situations with respect.</li></ul>"
+    - | 
+      ABN AMRO organizes a transformation in which Agile teams are steered towards DevOps, in a controlled manner. Markus’ responsibilities are: 
+      - Bringing together Development and Operations responsibilities and teaching new behavior and skills.
+      - Teach the new way of working, which implies a modular software architecture and the use of a highly automated software delivery pipeline (CI/CD).
+    - |
+      As a CI/CD enabler Markus acts as a catalyst in shaping excellence to enable teams to improve their IT performance (lead time for changes, release frequency, change fail rate, time to restore service and availability). He is assessing teams on their current IT-performance and work together with the team and their stakeholders to identify improvements that can help the teams IT-performance. Markus assists the teams in changing their way of working to be able to use a highly automated software delivery pipeline. To help the teams he is closely collaborating with different supporting parties that are providing default platforms, architecture and CI/CD Pipelines. Markus brings the following knowledge and experience to the table: 
+      - He keeps his knowledge up to speed in this rapid changing world
+      - He is able to demonstrate development techniques.
+      - He knows how to inspire and how to encourage teams.
+      - He is focused on delivering value in an automated and controlled way.
+      - He knows about the cultural diversity in large scale organizations with offshore capabilities and how to handle delicate situations with respect.
 
   - designation: CI/CD Coach SAP Stack @Stedin
     start: Nov 2018
@@ -98,7 +141,13 @@ experiences:
     end: Jun 2023
     responsibilities:
     - As a senior IT consultant I am versatile. I like to expand my knowledge and I am able to adjust to many different roles. In addition to my managerial skills, I have a broad range of technical skills. I attach great  importance to clear communication and openness. I am able to motivate people, bridge contradictions and achieve lasting acceptance among the people involved. I believe contact with all stakeholders is very important, I know how to balance interests in order to reach synergy and agreement. 
-    - Markus is a certified trainer for <ul><li>Certified [DevOps Foundation](https://devonacademy.com/training/devops-foundation) trainer</li><li>Certified [Devops Leader](https://devonacademy.com/training/devops-leader) trainer</li><li>Certified [DeSecOps](https://devonacademy.com/training/devsecops-foundation) trainer</li><li>Certified [Continuous testing Foundation](https://devonacademy.com/training/continuous-testing-foundation) trainer</li><li>Certified [Continuous Delivery Ecosystems](https://devonacademy.com/training/continuous-delivery-ecosystem-foundation) trainer</li></ul>
+    - |
+      Markus is a certified trainer for:
+      - Certified [DevOps Foundation](https://devonacademy.com/training/devops-foundation) trainer
+      - Certified [Devops Leader](https://devonacademy.com/training/devops-leader) trainer
+      - Certified [DeSecOps](https://devonacademy.com/training/devsecops-foundation) trainer
+      - Certified [Continuous testing Foundation](https://devonacademy.com/training/continuous-testing-foundation) trainer
+      - Certified [Continuous Delivery Ecosystems](https://devonacademy.com/training/continuous-delivery-ecosystem-foundation) trainer
     
 - company:
     name: Atos
@@ -111,7 +160,16 @@ experiences:
     start: Jun 2008
     end: Dec 2017
     responsibilities:
-    - "Markus is an allround consultant and he is fulfilling multiple roles at clients in the bank sector: <ul><li>Business Intelligence Specialist</li><li>Agile Project leader</li><li>Scrum Master / Product Owner in DevOps teams</li><li>Identity- and Access Management Specialist</li><li>Team leader</li><li>Security Specialist</li><li>Release Coördinator</li><li>IT Service Management Specialist</li><li>Senior Application Engineer</li></ul>"
+    - | 
+      Markus is an allround consultant and he is fulfilling multiple roles at clients in the bank sector: 
+      - Business Intelligence Specialist
+      - Agile Project leader
+      - Scrum Master / Product Owner in DevOps teams
+      - Identity- and Access Management Specialist
+      - Team leader</li><li>Security Specialist
+      - Release Coördinator
+      - IT Service Management Specialist
+      - Senior Application Engineer
   
   - designation: Agile Coach CI/CD Stack @ ABN Amro bank
     start: jun 2016
@@ -121,7 +179,11 @@ experiences:
     responsibilities:
     - Within IT Solutions a CI/CD (Continuous Integrations / Continuous Delivery) Expert was needed, who has, next to his technical expertise, also great coaching skills.
     - A Centers of Expertise (CoE) collaborates with projects to ensure that new or modified applications and infrastructure are implemented correctly. This makes the role of the CoE staff in a project highly complex. Partly the project is assisted by expertise from the CoE, on the other hand, of the other part, regulations and governance that need to be followed can be a complicating and restricting factor for the project. Extra factor is that they are also part of the formal Quality Assurance in their own jurisdiction.
-    - "Upon Markus' arrival Agile / Scrum was rolled out in certain parts of the bank, in addition to attitude and behaviour is automation of processes conditionally for a successful rollout. As Agile coach CI/CD Stack Markus was responsible for: <ul><li>Coaching</li><li>Flexibility and inventiveness</li><li>IT authority</li></ul>"
+    - | 
+      Upon Markus' arrival Agile / Scrum was rolled out in certain parts of the bank, in addition to attitude and behaviour is automation of processes conditionally for a successful rollout. As Agile coach CI/CD Stack Markus was responsible for: 
+      - Coaching
+      - Flexibility and inventiveness
+      - IT authority
 
   - designation: Agile Coach / Advisor
     start: Jan 2016
@@ -137,14 +199,28 @@ experiences:
     end: Dec 2015
     responsibilities:
     - As a Consultant Risk & Security Markus advised on securing critical information and business processes at the strategic, tactical and operational level. He was the bridge between Business, IT and Risk departments whom could explain technical challenges at all levels. He monitored the set of practices that focuses on aligning IT services with the needs of business (ITIL). He also helped design and / or implementation processes that ensure the continuity of User Access in case of incidents or a crisis.
-    - "Security in the areas of confidentiality, integrity and availability dominated in the User Access area. Markus was responsible for five applications. In the three months that he shared his vision, he has substantially increased the security of the applications. He did this by: <ul><li>Designing password reset procedures for High Privileged Accounts;</li><li>Designing Security Event Monitoring;</li><li>Resolve audit / security findings;</li><li>Writing security and compliance documents;</li><li>Improvement plans to avoid security risks.</li></ul>"
+    - | 
+      Security in the areas of confidentiality, integrity and availability dominated in the User Access area. Markus was responsible for five applications. In the three months that he shared his vision, he has substantially increased the security of the applications. He did this by: 
+      - Designing password reset procedures for High Privileged Accounts;
+      - Designing Security Event Monitoring;
+      - Resolve audit / security findings;
+      - Writing security and compliance documents;
+      - Improvement plans to avoid security risks.
 
   - designation: Scrum Master DevOps team Authorization @ING Netherlands
     start: Dec 2014
     end: Sep 2015
     responsibilities:
     - As scrum master Markus facilitated the scrum method, he was accountable for removing impediments to the ability of the team to deliver the product goals and deliverables. He acted as a buffer between the team and any distracting influences. He ensured that the scrum process is used as intended. He helped ensure the team follows the agreed scrum processes, often facilitated key sessions, and encouraged the team to improve. His role could also been referred to as a team facilitator or servant-leader to reinforce these dual perspectives.
-    - "Markus his core responsibilities as scrum master included:<ul><li>Helping the product owner maintain the product backlog in a way that ensures the needed work is well understood so the team can continually make forward progress;</li><li>Helping the team to determine the definition of done for the product, with input from key stakeholders;</li><li>Coaching the team, within the scrum principles, in order to deliver high-quality features for its product;</li><li>Promoting self-organization within the team;</li><li>Helping the scrum team to avoid or remove impediments to its progress, whether internal or external to the team;</li><li>Facilitating team events to ensure regular progress;</li><li>Educating key stakeholders in the product on scrum principles;</li></ul>"
+    - | 
+      Markus his core responsibilities as scrum master included:
+      - Helping the product owner maintain the product backlog in a way that ensures the needed work is well understood so the team can continually make forward progress;
+      - Helping the team to determine the definition of done for the product, with input from key stakeholders;
+      - Coaching the team, within the scrum principles, in order to deliver high-quality features for its product;
+      - Promoting self-organization within the team;
+      - Helping the scrum team to avoid or remove impediments to its progress, whether internal or external to the team;
+      - Facilitating team events to ensure regular progress;
+      - Educating key stakeholders in the product on scrum principles;
     - Together with the team he has set up the infrastructure for a PAAS environment, implemented workflows and he has built connections to different platforms (e.g. CDS. AD, RACF, Unix) for automatic provisioning.
     - The team was responsible for the DTAP environment. All code / configurations were developed by them, tests have been developed and implemented - partly automated and partly manual. Eventually the final product, was implemented on production and managed. The operational part of the team gave input for development in upcoming sprints.
     - In addition to his responsibilities to the team, he worked close together with the Product Owner to ensure that the user stories were ready and clear for the upcoming sprints.
@@ -161,9 +237,17 @@ experiences:
     start: Apr 2014
     end: Dec 2014
     responsibilities:
-    - Trans Forward to ..... was a large project to trigger an internal change in culture and mind-set among staff of Managed Services. The whole project consisted of three phases. <ol><li>Trans forward to Connect</li><li>Trans forward to Shape</li><li>Trans forward to Change</li></ol>
+    - | 
+      Trans Forward to ..... was a large project to trigger an internal change in culture and mind-set among staff of Managed Services. The whole project consisted of three phases. 
+      - Trans forward to Connect
+      - Trans forward to Shape
+      - Trans forward to Change
     - In total an organization of around 5000 people had to change. This was done by letting the Management Team, all managers and 1500 employees engage the change process within the organization.
-    - methods<ul><li>Awareness sessions</li><li>Open Space sessions</li><li>Process improvement projects</li></ul>
+    - | 
+      Methods:
+      - Awareness sessions
+      - Open Space sessions
+      - Process improvement projects
     - As one of the mentors Markus made sure that the Management Team, all managers of Managed Services and a large group of employees were led through these phases. Besides being involved in all sessions, he was closely involved in all activities outside of the sessions. It was his job to coach participants and let them stay aware of the objectives and commitments.
     - As mentor team together with the coaches we have put up a great result. A Denison scan has revealed that the mind-set and culture change has been turned into in the right direction.
  
@@ -229,7 +313,12 @@ experiences:
     start: May 2001
     end: Jun 2008
     responsibilities:
-    - In 2000 I started as IT specialist at NIB. I started parttime and after a few year full time. I supported the IT manager with several tasks. We supported 4 different companies - Collecting National (NIB Incasso) - Collecting International (TCM) - Legal collcting (NIB Juristen) - Communication/Advertising (NRB cc).
+    - | 
+      In 2000 I started as IT specialist at NIB. I started parttime and after a few year full time. I supported the IT manager with several tasks. We supported 4 different companies: 
+      - Collecting National (NIB Incasso) 
+      - Collecting International (TCM) 
+      - Legal collcting (NIB Juristen) 
+      - Communication/Advertising (NRB cc).
 
   - designation: Teamleader Call center Collections
     start: Jan 1999

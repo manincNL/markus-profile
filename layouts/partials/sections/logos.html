@@ -9,7 +9,22 @@
   {{ if .logos }}
     <div class="d-flex flex-wrap justify-content-center align-items-center gap-4">
       {{ range .logos }}
-        <img src="{{ .image | relURL }}" alt="{{ .name }}" height="40" loading="lazy">
+        <div class="logo-wrapper text-center {{ if not .via }} no-parent {{ end }}">
+          <div class="logo-inner">
+            <img src="{{ .image | relURL }}" alt="{{ .name }}" class="logo-img" loading="lazy">
+            {{ if .via_logo }}
+              <div class="via-icon">
+				<img src="{{ .via_logo | relURL }}" alt="{{ .via }}">
+			  </div>
+            {{ end }}
+          </div>
+          <div class="logo-meta mt-2">
+            <strong class="d-block logo-name">{{ .name }}</strong>
+            <small class="logo-dates">
+              {{ .from }} – {{ if .to }}{{ .to }}{{ else }}Present{{ end }}
+            </small>
+          </div>
+        </div>
       {{ end }}
     </div>
   {{ else }}
@@ -38,5 +53,100 @@
   filter: none;
   opacity: 1;
   border-color: #666;
+}
+
+.logo-wrapper {
+  width: 80px;
+  height: 150px; /* afgesteld op img + max teksthoogte */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.logo-wrapper:hover {
+  transform: scale(2);
+  z-index: 10;
+}
+
+.logo-img {
+  width: 100%;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+  opacity: 0.8;
+  filter: grayscale(100%);
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.logo-wrapper.no-parent:hover .logo-img {
+  border-color: #ea650d;
+}
+
+.logo-wrapper:hover .logo-img {
+  filter: none;
+  opacity: 1;
+}
+
+.logo-inner {
+  position: relative;
+}
+
+
+.via-icon {
+  position: absolute;
+  top: -1px;
+  right: -1px;
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 50%;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 20;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+.via-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* vult het rondje beter */
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+.logo-wrapper:hover .via-icon {
+  opacity: 1;
+}
+
+.logo-meta {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-size: 0.75rem;
+  color: inherit;
+}
+
+.logo-wrapper:hover .logo-meta {
+  opacity: 1;
+}
+
+.logo-meta {
+  font-size: 0.75rem;
+  color: inherit;
+  text-align: center;
+  margin-top: 0.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  max-width: 100%;
 }
 </style>

@@ -1,0 +1,117 @@
+{{ $sectionID := replace (lower .section.name) " " "-" }}
+{{ if .section.id }}
+  {{ $sectionID = .section.id }}
+{{ end }}
+
+{{ with .section }}
+<div class="container-fluid anchor pb-5 recommendations-section" id="{{ $sectionID }}">
+  {{ if not .hideTitle }}
+    <h2 class="text-center mb-5">{{ .title | default "What others say about me" }}</h2>
+  {{ end }}
+
+  <div class="testimonial-grid">
+    {{ range $index, $testimonial := .testimonials }}
+      {{ $side := cond (mod $index 2) "left" "right" }}
+        <div class="testimonial-tile-wrapper {{ $side }}">
+          <div class="testimonial-tile">
+            <img src="{{ $testimonial.image | relURL }}" alt="{{ $testimonial.name }}" class="testimonial-photo rounded-circle">
+
+            <div class="testimonial-popup">
+              <div class="testimonial-content">
+			    <em>{{ $testimonial.markusRole }}</em>
+                <p class="quote">{{ $testimonial.quote | markdownify }}</p>
+                <p class="small mb-0">
+                  <strong>{{ $testimonial.name }}</strong><br>
+                  <span class="text-muted">{{ $testimonial.role }}</span><br>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+<style>
+.testimonial-tile-wrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.testimonial-tile {
+  width: 80px;
+  height: 80px;
+}
+
+.testimonial-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  transition: transform 0.3s ease;
+}
+
+.testimonial-tile:hover .testimonial-photo {
+  transform: scale(1.05);
+  border-color: #ea650d;
+}
+
+/* === Popup box === */
+.testimonial-popup {
+  position: absolute;
+  top: 0;
+  width: 350px;
+  background: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease;
+  z-index: 10;
+}
+
+/* show on hover */
+.testimonial-tile:hover .testimonial-popup {
+  opacity: 1;
+  visibility: visible;
+}
+
+.testimonial-tile-wrapper.left .testimonial-popup {
+  left: 100%;
+  margin-left: 0.5rem;
+}
+
+.testimonial-tile-wrapper.right .testimonial-popup {
+  right: 100%;
+  margin-right: 0.5rem;
+}
+.testimonial-content {
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.testimonial-content .quote p {
+  margin-bottom: 0.75rem;
+}
+
+.testimonial-content em {
+  font-size: 0.75rem;
+  display: block;
+  color: #ea650d;
+}
+
+.testimonial-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem 0;
+}
+</style>
